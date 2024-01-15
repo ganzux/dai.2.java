@@ -1,0 +1,18 @@
+[PropertyInfo]
+apellidos,String,false,false, , ,false,<por defecto>
+codigo,String,false,false, , ,true,<por defecto>
+cp,String,false,false, , ,true,<por defecto>
+domicilio,String,false,false, , ,false,<por defecto>
+email,String,false,false, , ,false,<por defecto>
+fax,String,false,false, , ,true,<por defecto>
+localidad,String,false,false, , ,false,<por defecto>
+movil,String,false,false, , ,true,<por defecto>
+nif,String,false,false, , ,true,<por defecto>
+nombre,String,false,false, , ,false,<por defecto>
+telefono,String,false,false, , ,true,<por defecto>
+ventas,int,false,false, , ,false,<por defecto>
+[IconNames]
+
+
+
+

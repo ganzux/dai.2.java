@@ -1,0 +1,45 @@
+[PropertyInfo]
+buttonGrouphd,ButtonGroup,false,false, , ,false,<por defecto>
+buttonGroupmemoria,ButtonGroup,false,false, , ,false,<por defecto>
+buttonGroupmonitor,ButtonGroup,false,false, , ,false,<por defecto>
+buttonGroupprocesador,ButtonGroup,false,false, , ,false,<por defecto>
+jButtonanadir,JButton,false,false, , ,false,<por defecto>
+jButtonbuscar,JButton,false,false, , ,false,<por defecto>
+jButtoncancelar,JButton,false,false, , ,false,<por defecto>
+jButtoneliminar,JButton,false,false, , ,false,<por defecto>
+jButtonsalir,JButton,false,false, , ,false,<por defecto>
+jCheckBoxopcion1,JCheckBox,false,false, , ,false,<por defecto>
+jCheckBoxopcion2,JCheckBox,false,false, , ,false,<por defecto>
+jCheckBoxopcion3,JCheckBox,false,false, , ,false,<por defecto>
+jCheckBoxopcion4,JCheckBox,false,false, , ,false,<por defecto>
+jComboBoxlocalidad,JComboBox,false,false, , ,false,<por defecto>
+jLabelhd,JLabel,false,false, , ,false,<por defecto>
+jLabellista,JLabel,false,false, , ,false,<por defecto>
+jLabellocalidad,JLabel,false,false, , ,false,<por defecto>
+jLabelmemoria,JLabel,false,false, , ,false,<por defecto>
+jLabelmonitor,JLabel,false,false, , ,false,<por defecto>
+jLabelnombre,JLabel,false,false, , ,false,<por defecto>
+jLabelopciones,JLabel,false,false, , ,false,<por defecto>
+jLabelprocesador,JLabel,false,false, , ,false,<por defecto>
+jRadioButtonhd1,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonhd2,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonhd3,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonhd4,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonmemoria1,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonmemoria2,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonmemoria3,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonmemoria4,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonmonitor1,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonmonitor2,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonmonitor3,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonmonitor4,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonprocesador1,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonprocesador2,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonprocesador3,JRadioButton,false,false, , ,false,<por defecto>
+jRadioButtonprocesador4,JRadioButton,false,false, , ,false,<por defecto>
+jTextFieldnombrecliente,JTextField,false,false, , ,false,<por defecto>
+[IconNames]
+
+
+
+

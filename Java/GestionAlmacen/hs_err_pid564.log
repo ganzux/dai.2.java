@@ -1,0 +1,125 @@
+
+An unexpected exception has been detected in native code outside the VM.
+Unexpected Signal : EXCEPTION_ACCESS_VIOLATION (0xc0000005) occurred at PC=0x77F02929
+Function=GetPixelFormat+0x44
+Library=C:\WINDOWS\system32\GDI32.dll
+
+Current Java thread:
+	at sun.awt.windows.WPrinterJob.endDoc(Native Method)
+	at sun.print.PrintJob2D.end(PrintJob2D.java:441)
+	at gestionalmacen.Imprimir.ImprimeClientes(Imprimir.java:220)
+	at gestionalmacen.Imprimir.<init>(Imprimir.java:28)
+	at gestionalmacen.VentanaFormulario.jMenuItemListadoPorCodigo_actionPerformed(VentanaFormulario.java:1131)
+	at gestionalmacen.VentanaFormulario_jMenuItemListadoPorCodigo_actionAdapter.actionPerformed(VentanaFormulario.java:1376)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1786)
+	at javax.swing.AbstractButton$ForwardActionEvents.actionPerformed(AbstractButton.java:1839)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:420)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:258)
+	at javax.swing.AbstractButton.doClick(AbstractButton.java:289)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(BasicMenuItemUI.java:1113)
+	at javax.swing.plaf.basic.BasicMenuItemUI$MouseInputHandler.mouseReleased(BasicMenuItemUI.java:943)
+	at java.awt.Component.processMouseEvent(Component.java:5100)
+	at java.awt.Component.processEvent(Component.java:4897)
+	at java.awt.Container.processEvent(Container.java:1569)
+	at java.awt.Component.dispatchEventImpl(Component.java:3615)
+	at java.awt.Container.dispatchEventImpl(Container.java:1627)
+	at java.awt.Component.dispatchEvent(Component.java:3477)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:3483)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:3198)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:3128)
+	at java.awt.Container.dispatchEventImpl(Container.java:1613)
+	at java.awt.Window.dispatchEventImpl(Window.java:1606)
+	at java.awt.Component.dispatchEvent(Component.java:3477)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:456)
+	at java.awt.EventDispatchThread.pumpOneEventForHierarchy(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:151)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:145)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:137)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:100)
+
+Dynamic libraries:
+0x00400000 - 0x00407000 	C:\JBuilderX\jdk1.4\bin\javaw.exe
+0x7C910000 - 0x7C9C6000 	C:\WINDOWS\system32\ntdll.dll
+0x7C800000 - 0x7C901000 	C:\WINDOWS\system32\kernel32.dll
+0x77DA0000 - 0x77E4C000 	C:\WINDOWS\system32\ADVAPI32.dll
+0x77E50000 - 0x77EE1000 	C:\WINDOWS\system32\RPCRT4.dll
+0x77D10000 - 0x77DA0000 	C:\WINDOWS\system32\USER32.dll
+0x77EF0000 - 0x77F37000 	C:\WINDOWS\system32\GDI32.dll
+0x77BE0000 - 0x77C38000 	C:\WINDOWS\system32\MSVCRT.dll
+0x66200000 - 0x66235000 	C:\WINDOWS\SYSTEM32\PAVSHOOK.DLL
+0x66000000 - 0x6601A000 	C:\WINDOWS\system32\pavipc.dll
+0x66400000 - 0x6643F000 	C:\WINDOWS\system32\TpUtil.dll
+0x66600000 - 0x6661D000 	C:\WINDOWS\system32\SYSTOOLS.dll
+0x770F0000 - 0x7717C000 	C:\WINDOWS\system32\oleaut32.dll
+0x774B0000 - 0x775ED000 	C:\WINDOWS\system32\ole32.dll
+0x08000000 - 0x08136000 	C:\JBuilderX\jdk1.4\jre\bin\client\jvm.dll
+0x76B00000 - 0x76B2E000 	C:\WINDOWS\system32\WINMM.dll
+0x10000000 - 0x10007000 	C:\JBuilderX\jdk1.4\jre\bin\hpi.dll
+0x00AD0000 - 0x00ADE000 	C:\JBuilderX\jdk1.4\jre\bin\verify.dll
+0x00CF0000 - 0x00D08000 	C:\JBuilderX\jdk1.4\jre\bin\java.dll
+0x00AE0000 - 0x00AED000 	C:\JBuilderX\jdk1.4\jre\bin\zip.dll
+0x032F0000 - 0x033FF000 	C:\JBuilderX\jdk1.4\jre\bin\awt.dll
+0x72F80000 - 0x72FA6000 	C:\WINDOWS\system32\WINSPOOL.DRV
+0x76340000 - 0x7635D000 	C:\WINDOWS\system32\IMM32.dll
+0x03410000 - 0x03460000 	C:\JBuilderX\jdk1.4\jre\bin\fontmanager.dll
+0x736E0000 - 0x73729000 	C:\WINDOWS\system32\ddraw.dll
+0x73B40000 - 0x73B46000 	C:\WINDOWS\system32\DCIMAN32.dll
+0x738C0000 - 0x73990000 	C:\WINDOWS\system32\D3DIM700.DLL
+0x034F0000 - 0x0350A000 	C:\Archivos de programa\Panda Software\Panda Platinum 2005 Internet Security\pavoepl.dll
+0x58C30000 - 0x58CCA000 	C:\WINDOWS\system32\COMCTL32.dll
+0x03510000 - 0x0352F000 	C:\Archivos de programa\Panda Software\Panda Platinum 2005 Internet Security\StoreMan.dll
+0x76740000 - 0x76749000 	C:\WINDOWS\system32\SHFOLDER.dll
+0x77F40000 - 0x77FB6000 	C:\WINDOWS\system32\SHLWAPI.dll
+0x061F0000 - 0x06205000 	C:\Archivos de programa\Panda Software\Panda Platinum 2005 Internet Security\Firewall\SSSensor.dll
+0x03640000 - 0x0364C000 	C:\JBuilderX\jdk1.4\jre\bin\JdbcOdbc.dll
+0x745E0000 - 0x7461D000 	C:\WINDOWS\system32\ODBC32.dll
+0x7C9D0000 - 0x7D1EF000 	C:\WINDOWS\system32\SHELL32.dll
+0x76360000 - 0x763AA000 	C:\WINDOWS\system32\comdlg32.dll
+0x773A0000 - 0x774A3000 	C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2982_x-ww_ac3f9c03\comctl32.dll
+0x037B0000 - 0x037C8000 	C:\WINDOWS\system32\odbcint.dll
+0x4DDC0000 - 0x4DE04000 	C:\WINDOWS\system32\odbcjt32.dll
+0x037D0000 - 0x03940000 	C:\WINDOWS\system32\msjet40.dll
+0x03940000 - 0x039D5000 	C:\WINDOWS\system32\mswstr10.dll
+0x67240000 - 0x67250000 	C:\WINDOWS\system32\odbcji32.dll
+0x03DF0000 - 0x03DFD000 	C:\WINDOWS\system32\msjter40.dll
+0x03E00000 - 0x03E2D000 	C:\WINDOWS\system32\MSJINT40.DLL
+0x77FC0000 - 0x77FD1000 	C:\WINDOWS\system32\Secur32.dll
+0x76F90000 - 0x7700F000 	C:\WINDOWS\system32\CLBCATQ.DLL
+0x77010000 - 0x770E0000 	C:\WINDOWS\system32\COMRes.dll
+0x77BD0000 - 0x77BD8000 	C:\WINDOWS\system32\VERSION.dll
+0x04880000 - 0x048BA000 	C:\WINDOWS\system32\msjtes40.dll
+0x0F9A0000 - 0x0F9AB000 	C:\WINDOWS\system32\VBAJET32.DLL
+0x0F9C0000 - 0x0FA22000 	C:\WINDOWS\system32\expsrv.dll
+0x76800000 - 0x76833000 	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\UNIDRVUI.DLL
+0x690B0000 - 0x690CC000 	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\ps5ui.dll
+0x778A0000 - 0x778E3000 	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\UNIDRV.DLL
+0x69020000 - 0x69081000 	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\pscript5.dll
+0x73AB0000 - 0x73AC5000 	C:\WINDOWS\system32\MSCMS.DLL
+0x05C90000 - 0x05C9C000 	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\mdiui.dll
+0x06A10000 - 0x06CD6000 	C:\WINDOWS\system32\msi.dll
+0x05CA0000 - 0x05D6B000 	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\mdigraph.dll
+0x76030000 - 0x76095000 	C:\WINDOWS\system32\MSVCP60.dll
+0x76330000 - 0x76335000 	C:\WINDOWS\system32\MSIMG32.dll
+0x778F0000 - 0x779E7000 	C:\WINDOWS\system32\SETUPAPI.dll
+0x76C50000 - 0x76C78000 	C:\WINDOWS\system32\imagehlp.dll
+0x5D4B0000 - 0x5D551000 	C:\WINDOWS\system32\DBGHELP.dll
+0x76BB0000 - 0x76BBB000 	C:\WINDOWS\system32\PSAPI.DLL
+
+Heap at VM Abort:
+Heap
+ def new generation   total 576K, used 422K [0x10010000, 0x100b0000, 0x104f0000)
+  eden space 512K,  73% used [0x10010000, 0x1006ddc8, 0x10090000)
+  from space 64K,  73% used [0x100a0000, 0x100abbc8, 0x100b0000)
+  to   space 64K,   0% used [0x10090000, 0x10090000, 0x100a0000)
+ tenured generation   total 1408K, used 855K [0x104f0000, 0x10650000, 0x14010000)
+   the space 1408K,  60% used [0x104f0000, 0x105c5fe0, 0x105c6000, 0x10650000)
+ compacting perm gen  total 6400K, used 6330K [0x14010000, 0x14650000, 0x18010000)
+   the space 6400K,  98% used [0x14010000, 0x1463eb40, 0x1463ec00, 0x14650000)
+
+Local Time = Thu Nov 16 13:26:23 2006
+Elapsed Time = 183
+#
+# The exception above was detected in native code outside the VM
+#
+# Java VM: Java HotSpot(TM) Client VM (1.4.2_01-b06 mixed mode)
+#

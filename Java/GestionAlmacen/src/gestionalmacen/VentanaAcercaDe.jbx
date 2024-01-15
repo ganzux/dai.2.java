@@ -1,0 +1,11 @@
+[PropertyInfo]
+jLabelTexto,JLabel,false,false, , ,false,<por defecto>
+jLabelTextoExtendido,JLabel,false,false, , ,false,<por defecto>
+jToggleButtonVolver,JToggleButton,false,false, , ,false,<por defecto>
+padre,JFrame,false,false, , ,false,<por defecto>
+titledBorder1,TitledBorder,false,false, , ,false,<por defecto>
+[IconNames]
+
+
+
+

@@ -1,0 +1,48 @@
+[PropertyInfo]
+conexion,GestorBD,false,false, , ,false,<por defecto>
+jButtonAceptar,JButton,false,false, , ,false,<por defecto>
+jButtonCancelarPedido,JButton,false,false, , ,false,<por defecto>
+jButtonCancelarTodo,JButton,false,false, , ,false,<por defecto>
+jButtonFactura,JButton,false,false, , ,false,<por defecto>
+jButtonSalir,JButton,false,false, , ,false,<por defecto>
+jLabelApellidos,JLabel,false,false, , ,false,<por defecto>
+jLabelArticulo,JLabel,false,false, , ,false,<por defecto>
+jLabelCodigo,JLabel,false,false, , ,false,<por defecto>
+jLabelCP,JLabel,false,false, , ,false,<por defecto>
+jLabelDescripcion,JLabel,false,false, , ,false,<por defecto>
+jLabelDomicilio,JLabel,false,false, , ,false,<por defecto>
+jLabelImporte,JLabel,false,false, , ,false,<por defecto>
+jLabelLocalidad,JLabel,false,false, , ,false,<por defecto>
+jLabelNIF,JLabel,false,false, , ,false,<por defecto>
+jLabelNombre,JLabel,false,false, , ,false,<por defecto>
+jLabelPrecio,JLabel,false,false, , ,false,<por defecto>
+jLabelSeparador,JLabel,false,false, , ,false,<por defecto>
+jLabelStock,JLabel,false,false, , ,false,<por defecto>
+jLabelUnidades,JLabel,false,false, , ,false,<por defecto>
+jLabelVentas,JLabel,false,false, , ,false,<por defecto>
+jMenuBar,JMenuBar,false,false, , ,false,<por defecto>
+jMenuItemCliente,JMenuItem,false,false, , ,false,<por defecto>
+jMenuItemProveedor,JMenuItem,false,false, , ,false,<por defecto>
+jMenuItemVolver,JMenuItem,false,false, , ,false,<por defecto>
+jMenuPedidos,JMenu,false,false, , ,false,<por defecto>
+jTextApellidos,JTextField,false,false, , ,false,<por defecto>
+jTextArticulo,JTextField,false,false, , ,false,<por defecto>
+jTextCodigo,JTextField,false,false, , ,false,<por defecto>
+jTextDescripcion,JTextField,false,false, , ,false,<por defecto>
+jTextFieldCP,JTextField,false,false, , ,false,<por defecto>
+jTextFieldDomicilio,JTextField,false,false, , ,false,<por defecto>
+jTextFieldLocalidad,JTextField,false,false, , ,false,<por defecto>
+jTextFieldVentas,JTextField,false,false, , ,false,<por defecto>
+jTextImporte,JTextField,false,false, , ,false,<por defecto>
+jTextNIF,JTextField,false,false, , ,false,<por defecto>
+jTextNombre,JTextField,false,false, , ,false,<por defecto>
+jTextPrecio,JTextField,false,false, , ,false,<por defecto>
+jTextStock,JTextField,false,false, , ,false,<por defecto>
+jTextUnidades,JTextField,false,false, , ,false,<por defecto>
+opcion,int,false,false, , ,false,<por defecto>
+padre,JFrame,false,false, , ,false,<por defecto>
+[IconNames]
+
+
+
+

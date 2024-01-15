@@ -1,0 +1,12 @@
+[PropertyInfo]
+codigo,String,false,false, , ,false,<por defecto>
+descripcion,String,false,false, , ,false,<por defecto>
+preciocompra,float,false,false, , ,false,<por defecto>
+precioventa,float,false,false, , ,false,<por defecto>
+stock,int,false,false, , ,false,<por defecto>
+stockminimo,int,false,false, , ,false,<por defecto>
+[IconNames]
+
+
+
+

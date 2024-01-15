@@ -1,0 +1,18 @@
+MIDlet-1: Sonido, , Sonido
+MIDlet-10: Imagen,,Imagen
+MIDlet-11: FileConnection, , FileConnection
+MIDlet-2: Vibracion,,Vibracion
+MIDlet-3: Ejemplos, , Ejemplos
+MIDlet-4: EjemplosListas, , EjemplosListas
+MIDlet-5: CajasDeTexto, , CajasDeTexto
+MIDlet-6: Alertas, , Alertas
+MIDlet-7: Calendario, , Calendario
+MIDlet-8: FechayHora, , FechayHora
+MIDlet-9: PopupConChoice, , PopupConChoice
+MIDlet-Jar-Size: 19497
+MIDlet-Jar-URL: Ejemplos.jar
+MIDlet-Name: Ejemplos
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

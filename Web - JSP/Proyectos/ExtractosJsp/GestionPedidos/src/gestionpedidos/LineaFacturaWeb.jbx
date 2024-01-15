@@ -1,0 +1,11 @@
+[PropertyInfo]
+articulo,String,false,false, , ,false,<por defecto>
+descripcion,String,false,false, , ,false,<por defecto>
+importe,String,false,false, , ,false,<por defecto>
+precio,String,false,false, , ,false,<por defecto>
+unidades,String,false,false, , ,false,<por defecto>
+[IconNames]
+
+
+
+

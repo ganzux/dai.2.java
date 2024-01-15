@@ -1,0 +1,9 @@
+[PropertyInfo]
+articulo,String,false,false, , ,false,<por defecto>
+precio,int,false,false, , ,false,<por defecto>
+unidades,int,false,false, , ,false,<por defecto>
+[IconNames]
+
+
+
+
